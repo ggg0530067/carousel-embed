@@ -85,7 +85,7 @@
   <button class="nav-arrow left">‹</button>
   <div class="carousel-track" id="carouselTrack">
     <div class="card" data-index="0">
-      <img src="[https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=3687&auto=format&fit=crop" alt="Team Member 1](https://imgur.com/O1fa8dN)">
+      <img src="https://imgur.com/O1fa8dN)">
     </div>
     <div class="card" data-index="1">
       <img src="[https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=3870&auto=format&fit=crop" alt="Team Member 2](https://imgur.com/zNoHiFr)">
