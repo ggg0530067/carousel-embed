@@ -85,22 +85,22 @@
   <button class="nav-arrow left">‹</button>
   <div class="carousel-track" id="carouselTrack">
     <div class="card" data-index="0">
-      <img src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=3687&auto=format&fit=crop" alt="Team Member 1">
+      <img src="[https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=3687&auto=format&fit=crop" alt="Team Member 1](https://imgur.com/O1fa8dN)">
     </div>
     <div class="card" data-index="1">
-      <img src="https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=3870&auto=format&fit=crop" alt="Team Member 2">
+      <img src="[https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=3870&auto=format&fit=crop" alt="Team Member 2](https://imgur.com/zNoHiFr)">
     </div>
     <div class="card" data-index="2">
-      <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=900&auto=format&fit=crop&q=60" alt="Team Member 3">
+      <img src="[https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=900&auto=format&fit=crop&q=60" alt="Team Member 3](https://imgur.com/7ygnBjN)">
     </div>
     <div class="card" data-index="3">
-      <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=900&auto=format&fit=crop&q=60" alt="Team Member 4">
+      <img src="[https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=900&auto=format&fit=crop&q=60" alt="Team Member 4](https://imgur.com/7ygnBjN)">
     </div>
     <div class="card" data-index="4">
-      <img src="https://images.unsplash.com/photo-1655249481446-25d575f1c054?w=900&auto=format&fit=crop&q=60" alt="Team Member 5">
+      <img src="[https://images.unsplash.com/photo-1655249481446-25d575f1c054?w=900&auto=format&fit=crop&q=60" alt="Team Member 5](https://imgur.com/Wvk6xV0)">
     </div>
     <div class="card" data-index="5">
-      <img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=3687&auto=format&fit=crop" alt="Team Member 6">
+      <img src="[https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=3687&auto=format&fit=crop" alt="Team Member 6](https://imgur.com/xOCaxZF)">
     </div>
   </div>
   <button class="nav-arrow right">›</button>
